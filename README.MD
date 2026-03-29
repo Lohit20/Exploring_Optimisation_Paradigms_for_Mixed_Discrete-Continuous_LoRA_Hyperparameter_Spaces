@@ -471,22 +471,5 @@ Possible directions for extending the project include:
 * exploring additional multi-objective algorithms
 * studying how algorithm rankings change when the computational budget is increased
 
----
 
-## Reference
 
-This repository accompanies the report for:
-
-**COMM062 / COM3013 – Computational Intelligence, Coursework Option B**
-
-For the full methodology, detailed algorithm descriptions, figures, tables, and discussion, please refer to the report included with this project.
-
----
-
-If you want, I can now turn this into an even more polished **GitHub-style README** with:
-
-* badges
-* installation section
-* how to run each algorithm
-* results section with image placeholders
-* a cleaner portfolio layout
