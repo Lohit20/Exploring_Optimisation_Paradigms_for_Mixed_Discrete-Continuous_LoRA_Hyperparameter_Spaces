@@ -422,24 +422,23 @@ A typical structure for this project may look like this:
 
 ```text
 .
-├── src/
-│   ├── data/
-│   ├── models/
-│   ├── optimization/
-│   │   ├── random_search.py
-│   │   ├── aquila.py
-│   │   ├── dpso_ga.py
-│   │   ├── bso.py
-│   │   └── moead_de.py
-│   ├── train.py
-│   └── utils.py
-├── results/
-│   ├── logs/
-│   ├── plots/
-│   └── json/
-├── notebooks/
+├── Algorithms/
+│   ├── Aquila Optimizer.ipynb
+│   ├── BSO.ipynb
+│   ├── Discrete PSO (DPSO) with GA.ipynb
+│   ├── MOEA_D_DE.ipynb
+│   └── Random Search.ipynb
+│
+├── Results/
+│   ├── ao_results_all_seeds_combined.json
+│   ├── bso_blindfolded_all_seeds_merged.json
+│   ├── dpso_ga_results_all_seeds.json
+│   ├── MOEAD_DE_results.json
+│   └── random_search_results.json
+│
+├── Comparative Study of Algorithms.ipynb
+├── Project Report.pdf
 ├── README.md
-└── requirements.txt
 ```
 
 You should adjust this section so it matches your actual repo structure.
